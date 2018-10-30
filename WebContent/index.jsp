@@ -25,7 +25,7 @@
             </tr>
         </table>
         <a href="<%=request.getContextPath()%>/DS/register_form.jsp">회원가입</a>
-        dddddddddddddddddddddddddddddddddddddddddddddd
+        
             </form>
 </body>
 </html>
